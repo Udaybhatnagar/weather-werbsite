@@ -3,6 +3,7 @@ import { CiSearch } from "react-icons/ci";
 import axios from "axios";
 
 export const Weather = () => {
+  ;lfmasldmflafjoaflmael;fmeaopfmlfmflaekf
   const [city, setcity] = useState("");
   const [weather, setweather] = useState();
 
